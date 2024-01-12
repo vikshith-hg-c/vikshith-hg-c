@@ -8,6 +8,12 @@ Hi there! I'm Vikshith, a developer with a passion for technology and coding.
 ## Skills & Tech Stack 💻
 
 ### Planning and collabration
+
+### Solution Design Technoligies
+<img src="postgresql-icon-url.png" width="30" height="30" alt="PostgreSQL Icon"/>
+<img src="mysql-icon-url.png" width="30" height="30" alt="MySQL Icon"/>
+<img src="mongodb-icon-url.png" width="30" height="30" alt="MongoDB Icon"/>
+
 ### Programming Languages
 <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="30" height="30" alt="Golang Icon"/>
 <img src="bash-icon-url.png" width="30" height="30" alt="Bash Icon"/>
@@ -17,19 +23,14 @@ Hi there! I'm Vikshith, a developer with a passion for technology and coding.
 <img src="html-icon-url.png" width="30" height="30" alt="HTML Icon"/>
 <img src="css-icon-url.png" width="30" height="30" alt="CSS Icon"/>
 
-### Databases
-<img src="postgresql-icon-url.png" width="30" height="30" alt="PostgreSQL Icon"/>
-<img src="mysql-icon-url.png" width="30" height="30" alt="MySQL Icon"/>
-<img src="mongodb-icon-url.png" width="30" height="30" alt="MongoDB Icon"/>
-
-### DevOps & Cloud Technologies
+### DevOps & Hosting
 <img src="docker-icon-url.png" width="30" height="30" alt="Docker Icon"/>
 <img src="kubernetes-icon-url.png" width="30" height="30" alt="Kubernetes Icon"/>
 <img src="terraform-icon-url.png" width="30" height="30" alt="Terraform Icon"/>
 <img src="aws-icon-url.png" width="30" height="30" alt="AWS Icon"/>
 <img src="azure-icon-url.png" width="30" height="30" alt="Azure Icon"/>
 
-### Blockchain & Monitoring Tools
+### Monitoring and Alerting Tools
 <img src="hyperledger-icon-url.png" width="30" height="30" alt="Hyperledger Icon"/>
 <img src="ethereum-icon-url.png" width="30" height="30" alt="Ethereum Icon"/>
 <img src="prometheus-icon-url.png" width="30" height="30" alt="Prometheus Icon"/>
