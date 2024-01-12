@@ -6,7 +6,7 @@
 Hi there! I'm Vikshith, a developer with a passion for technology and coding.
 
 ## Skills & Tech Stack 💻
-![Golang Icon]([golang-icon-url.png](https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png)) ![Bash Icon](bash-icon-url.png) ![Python Icon](python-icon-url.png)  
+!([golang-icon-url.png](https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png)) ![Bash Icon](bash-icon-url.png) ![Python Icon](python-icon-url.png)  
 ![C++ Icon](c++-icon-url.png) ![JavaScript Icon](javascript-icon-url.png) ![HTML Icon](html-icon-url.png)  
 ![CSS Icon](css-icon-url.png) ![PostgreSQL Icon](postgresql-icon-url.png) ![MySQL Icon](mysql-icon-url.png)  
 ![MongoDB Icon](mongodb-icon-url.png) ![Docker Icon](docker-icon-url.png) ![Kubernetes Icon](kubernetes-icon-url.png)  
