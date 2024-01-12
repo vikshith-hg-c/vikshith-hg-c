@@ -7,6 +7,7 @@ Hi there! I'm Vikshith, a developer with a passion for technology and coding.
 
 ## Skills & Tech Stack 💻
 
+### Planning and collabration
 ### Programming Languages
 <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="30" height="30" alt="Golang Icon"/>
 <img src="bash-icon-url.png" width="30" height="30" alt="Bash Icon"/>
