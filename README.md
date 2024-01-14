@@ -1,6 +1,6 @@
 # Vikshith H G
 
-![Banner Image](banner-url.jpg)
+![Banner Image]()
 
 ## About Me 🚀
 Hi there! I'm Vikshith, a developer with a passion for technology and coding.
