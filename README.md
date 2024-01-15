@@ -1,46 +1,36 @@
-# Vikshith H G
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![Banner Image]()
+## Getting Started
 
-## About Me 🚀
-Hi there! I'm Vikshith, a developer with a passion for technology and coding.
+First, run the development server:
 
-## Skills & Tech Stack 💻
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-### Planning and collabration
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Solution Design Technoligies
-<img src="postgresql-icon-url.png" width="30" height="30" alt="PostgreSQL Icon"/>
-<img src="mysql-icon-url.png" width="30" height="30" alt="MySQL Icon"/>
-<img src="mongodb-icon-url.png" width="30" height="30" alt="MongoDB Icon"/>
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-### Programming Languages
-<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="30" height="30" alt="Golang Icon"/>
-<img src="bash-icon-url.png" width="30" height="30" alt="Bash Icon"/>
-<img src="python-icon-url.png" width="30" height="30" alt="Python Icon"/>
-<img src="c++-icon-url.png" width="30" height="30" alt="C++ Icon"/>
-<img src="javascript-icon-url.png" width="30" height="30" alt="JavaScript Icon"/>
-<img src="html-icon-url.png" width="30" height="30" alt="HTML Icon"/>
-<img src="css-icon-url.png" width="30" height="30" alt="CSS Icon"/>
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-### DevOps & Hosting
-<img src="docker-icon-url.png" width="30" height="30" alt="Docker Icon"/>
-<img src="kubernetes-icon-url.png" width="30" height="30" alt="Kubernetes Icon"/>
-<img src="terraform-icon-url.png" width="30" height="30" alt="Terraform Icon"/>
-<img src="aws-icon-url.png" width="30" height="30" alt="AWS Icon"/>
-<img src="azure-icon-url.png" width="30" height="30" alt="Azure Icon"/>
+## Learn More
 
-### Monitoring and Alerting Tools
-<img src="hyperledger-icon-url.png" width="30" height="30" alt="Hyperledger Icon"/>
-<img src="ethereum-icon-url.png" width="30" height="30" alt="Ethereum Icon"/>
-<img src="prometheus-icon-url.png" width="30" height="30" alt="Prometheus Icon"/>
-<img src="grafana-icon-url.png" width="30" height="30" alt="Grafana Icon"/>
+To learn more about Next.js, take a look at the following resources:
 
-## My GitHub Stats 📊
-![Vikshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikshith-hg-c&show_icons=true)
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Connect With Me 🌐
-<img src="website-icon-url.png" width="30" height="30" alt="Website Icon"/> [vikshith.com](https://www.vikshith.com)  
-<img src="linkedin-icon-url.png" width="30" height="30" alt="LinkedIn Icon"/> [LinkedIn](https://www.linkedin.com/in/vikshith)
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-Eager to explore new technologies and take on challenging projects!
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
