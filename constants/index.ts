@@ -1,6 +1,6 @@
 export const Skill_data = [
     {
-      skill_name: "Html 5",
+      skill_name: "CCNA",
       Image: "/html.png",
       width: 80,
       height: 80,
