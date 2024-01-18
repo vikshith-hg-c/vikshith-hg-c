@@ -312,7 +312,7 @@ export const Infrastructure_Skills = [
     },
     {
       skill_name: "Control-M",
-      Image: "/icons/control-M.jpeg",
+      Image: "/icons/control-m.jpeg",
       width: 150,
       height: 150,
     },
