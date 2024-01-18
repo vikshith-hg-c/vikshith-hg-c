@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+@media screen and (max-width: 600px) {
+    .header {
+      min-height: 100px;
+      font-size: 2rem;
+    }
+
+  }
