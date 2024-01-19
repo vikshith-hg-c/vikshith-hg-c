@@ -193,9 +193,9 @@ export const Infrastructure_Skills = [
     },
     {
       skill_name: "ELK",
-      Image: "/icons/elastic.png",
+      Image: "/icons/elk.webp",
       width: 100,
-      height: 100,
+      height: 150,
     },
     {
       skill_name: "Prometheus",
@@ -312,7 +312,7 @@ export const Infrastructure_Skills = [
     },
     {
       skill_name: "Control-M",
-      Image: "/icons/control-m.jpeg",
+      Image: "/icons/control-m.png",
       width: 150,
       height: 150,
     },
