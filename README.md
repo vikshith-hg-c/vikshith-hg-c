@@ -30,7 +30,7 @@ You can find my work on my <a href="https://shrayank.com/" target="blank">Portfo
 <br />
  
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=hrshrayank&theme=highcontrast&show_icons=true"/></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=vikshith-hg-c&theme=highcontrast&show_icons=true"/></div>
 <br/>
 
 ### 👯 Other interests
