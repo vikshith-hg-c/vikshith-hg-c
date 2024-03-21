@@ -25,7 +25,7 @@ You can find my work on my <a href="https://vikshith.com/" target="blank">Portfo
 [comment]:<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 [comment]:<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </p>
-*/
+
 <br />
  
 
@@ -33,7 +33,7 @@ You can find my work on my <a href="https://vikshith.com/" target="blank">Portfo
 <br/>
 
 ### 👯 Other interests
-<p>I like cycling and travelling.</p>
+<p>Makeshifter</p>
 
 
 
