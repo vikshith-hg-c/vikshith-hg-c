@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Vikshith H G</h1>
 <h3 align="center">Bangalore,India</h3>
-<p>I'm a Full Stack Engineer Demonstrating expertise in collaborative project delivery, I excel in Golang, Bash, and C++, developing scalable backend systems for mainframes and multi-cloud environments. Proficient in MySQL and PostgreSQL, I seamlessly integrate back-end logic with HTML and TypeScript for user-friendly interfaces. Well-versed in DevSecOps principles, I ensure compliance with 12-factor applications and utilize ELK, Prometheus, and Grafana for monitoring applications. Committed to staying current with industry trends, I passionately deliver high-quality, maintainable code, resolving suboptimal configurations and providing effective mitigation fixes in production environments</p>
+<p>An aspiring DevOps Engineer with foundational experience in automating, configuring, and optimizing cloud and on-premise infrastructures for enhanced performance and cost efficiency. Early in my career, I have concentrated on honing my skills in containerized application development to support scalable and fault-tolerant deployment strategies, facilitating the principles of continuous integration and delivery (CI/CD) for streamlined software development life cycles. With a keen interest in Golang development, I am developing my skills in backend system integrations and microservices architecture, aiming to contribute to the deployment and management of containerized applications in a DevSecOps context. Eager to leverage my growing expertise and passion for technology, I am enthusiastic about advancing my career in a Senior DevSecOps role, where I can contribute to securing and optimizing development pipelines and infrastructure.
+</p>
 
 <p align="left">🌱 Currently looking for opportunities as a DevOps/DevSecOps</p>
 
