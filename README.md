@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Vikshith H G</h1>
+<h1 align="center">Hi 👋, I'm Vikshith Halehalli Ganesh</h1>
 <h3 align="center">Bangalore,India</h3>
 <p>An aspiring DevOps Engineer with foundational experience in automating, configuring, and optimizing cloud and on-premise infrastructures for enhanced performance and cost efficiency. Early in my career, I have concentrated on honing my skills in containerized application development to support scalable and fault-tolerant deployment strategies, facilitating the principles of continuous integration and delivery (CI/CD) for streamlined software development life cycles. With a keen interest in Golang development, I am developing my skills in backend system integrations and microservices architecture, aiming to contribute to the deployment and management of containerized applications in a DevSecOps context. Eager to leverage my growing expertise and passion for technology, I am enthusiastic about advancing my career in a Senior DevSecOps role, where I can contribute to securing and optimizing development pipelines and infrastructure.
 </p>
