@@ -54,7 +54,7 @@ const HeroContent = () => {
       const webhookUrl = "https://hooks.slack.com/services/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"; // Replace with your webhook URL
       postLocationToWebhook(webhookUrl, position);
   });
-  const url = "https://drive.google.com/file/d/1p7KZ_rfpvCeQN8yj7GaZ4dJG5ZrjiHLC/view";
+  const url = "https://drive.google.com/file/d/1p7KZ_rfpvCeQN8yj7GaZ4dJG5ZrjiHLC/view?usp=drivesdk";;
   const a = document.createElement('a');
   a.href = url;
   a.download = 'Vikshith Resume.pdf';
