@@ -120,7 +120,7 @@ const HeroContent = () => {
         >
         <a  download>
             <button id="downloadButton" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 box" onClick={handleDownloadClick}>
-                Download Resume
+                View & Download Live Resume
             </button>
           
         </a>
