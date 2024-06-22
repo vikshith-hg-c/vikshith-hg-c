@@ -11,7 +11,7 @@
 
 <a href="https://www.linkedin.com/in/vikshith"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40"/></a>
 <a href="mailto:vikshith.ganesh@vikshith.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=#4efc03)" width="100" height="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=919148484824&text=Hi.%20%F0%9F%98%80"><img src="https://tochat.be/whatsapp-icon-white.png" width="40" /></a>
+
 
 
 <h3> 💬 Want to know more about me?</h3>
