@@ -108,12 +108,9 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-align text-gray-400 my-5 max-w-[1000px] "
         >
-          I&apos;m a Full Stack Engineer Demonstrating expertise in collaborative project delivery, 
-          I excel in Golang, Bash, and C++, developing scalable backend systems for mainframes and multi-cloud environments. 
-          Proficient in MySQL and PostgreSQL, I seamlessly integrate back-end logic with HTML and TypeScript for user-friendly interfaces. 
-          Well-versed in DevSecOps principles, I ensure compliance with 12-factor applications and utilize ELK, Prometheus, and Grafana for monitoring applications. 
-          Committed to staying current with industry trends, I passionately deliver high-quality, maintainable code, 
-          resolving suboptimal configurations and providing effective mitigation fixes in production environments..
+          I am a skilled engineer specializing in DevSecOps, with a proven track record in supporting and developing secure, scalable backend systems using Golang, Bash, and C++. My experience spans providing robust solutions for mainframes and multi-cloud environments. I am proficient in using tools like Ansible and Terraform to automate infrastructure management and deployment.
+
+With a deep commitment to DevSecOps principles, I ensure compliance with 12-factor applications and utilize tools like ELK, Prometheus, and Grafana for comprehensive monitoring and security. I am passionate about staying current with industry trends, delivering high-quality, maintainable code, and resolving suboptimal configurations with effective mitigation strategies in production environments.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(0.8)}
