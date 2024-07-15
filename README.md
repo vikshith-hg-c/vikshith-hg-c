@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vikshith</h1>
 <h3 align="center">Karnataka, India</h3>
 
-<p align="left">🌱 Currently looking for opportunities as a DevSecOps Engineer</p>
-
-
 <h3>Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/vikshith"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40"/></a>
