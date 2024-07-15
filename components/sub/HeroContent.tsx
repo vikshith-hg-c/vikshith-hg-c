@@ -112,16 +112,16 @@ const HeroContent = () => {
 
 With a deep commitment to DevSecOps principles, I ensure compliance with 12-factor applications and utilize tools like ELK, Prometheus, and Grafana for comprehensive monitoring and security. I am passionate about staying current with industry trends, delivering high-quality, maintainable code, and resolving suboptimal configurations with effective mitigation strategies in production environments.
         </motion.p>
-        <motion.a
+       <!-- <motion.a
           variants={slideInFromLeft(0.8)}
         >
-  <!--      <a  download>
+     <a  download>
             <button id="downloadButton" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 box" onClick={handleDownloadClick}>
                 View & Download Live Resume
             </button>
           
-        </a>-->
-        </motion.a>
+        </a>
+        </motion.a> -->
       </div>
 
         
