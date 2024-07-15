@@ -115,12 +115,12 @@ With a deep commitment to DevSecOps principles, I ensure compliance with 12-fact
         <motion.a
           variants={slideInFromLeft(0.8)}
         >
-        <a  download>
+  <!--      <a  download>
             <button id="downloadButton" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 box" onClick={handleDownloadClick}>
                 View & Download Live Resume
             </button>
           
-        </a>
+        </a>-->
         </motion.a>
       </div>
 
