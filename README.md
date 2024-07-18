@@ -28,6 +28,7 @@ You can find my work on my <a href="https://vikshith.com/" target="blank">Portfo
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikshith-hg-c&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
