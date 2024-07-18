@@ -24,9 +24,7 @@ You can find my work on my <a href="https://vikshith.com/" target="blank">Portfo
 </p>
 
 <br />
- 
-
-[comment]:<div><img src="https://github-readme-stats.vercel.app/api?username=vikshith-hg-c&theme=highcontrast&show_icons=true"/></div>
+ <div><img src="https://github-readme-stats.vercel.app/api?username=vikshith-hg-c&theme=highcontrast&show_icons=true"/></div>
 <br/>
 
 [comment]:### 👯 Other interests
