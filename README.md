@@ -29,7 +29,6 @@ You can find my work on my <a href="https://vikshith.com/" target="blank">Portfo
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikshith-hg-c&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=vikshith-hg-c.vikshith-hg-c)
 
 
 
