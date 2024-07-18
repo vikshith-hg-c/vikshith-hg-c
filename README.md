@@ -23,12 +23,8 @@ You can find my work on my <a href="https://vikshith.com/" target="blank">Portfo
 [comment]:<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </p>
 
-<br />
- <div><img src="https://github-readme-stats.vercel.app/api?username=vikshith-hg-c&theme=highcontrast&show_icons=true"/></div>
-<br/>
-
-[comment]:### 👯 Other interests
-[comment]:<p>Makeshifter</p>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?vikshith-hg-c&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
