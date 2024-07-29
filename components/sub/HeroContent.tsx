@@ -54,7 +54,7 @@ const HeroContent = () => {
       const webhookUrl = "https://hooks.slack.com/services/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"; // Replace with your webhook URL
       postLocationToWebhook(webhookUrl, position);
   });
-  const url = "https://docs.google.com/document/d/1-lOtPcgPGXxSfUrbwno5jolMUfGVNBxrni8A1GCPB1g/view";;
+  const url = "https://docs.google.com/document/d/1ASggPCRhgq37btd8q3IcMejKpGicQxxJ/view";
   const a = document.createElement('a');
   a.href = url;
   a.download = 'Vikshith Resume.pdf';
@@ -108,11 +108,11 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-align text-gray-400 my-5 max-w-[1000px] "
         >
-          I am a skilled engineer specializing in DevSecOps, with a proven track record in supporting and developing secure, scalable backend systems using Golang, Bash, and C++. My experience spans providing robust solutions for mainframes and multi-cloud environments. I am proficient in using tools like Ansible and Terraform to automate infrastructure management and deployment.
+          I am a skilled engineer specializing in DevSecOps, with a proven track record in supporting and developing secure, scalable backend systems using Golang, Bash, and C++. My experience spans providing robust solutions for mainframes and hybrid-cloud environments. I am proficient in using tools like Ansible and Terraform to automate infrastructure management and deployment.
 
-With a deep commitment to DevSecOps principles, I ensure compliance with 12-factor applications and utilize tools like ELK, Prometheus, and Grafana for comprehensive monitoring and security. I am passionate about staying current with industry trends, delivering high-quality, maintainable code, and resolving suboptimal configurations with effective mitigation strategies in production environments.
+With a deep commitment to DevSecOps principles, I ensure compliance with 12-factor applications and utilize tools like ELK, Prometheus, Splunk and Grafana for comprehensive monitoring and security. I am passionate about staying current with industry trends, delivering high-quality, maintainable code, and resolving suboptimal configurations with effective mitigation strategies in production environments.
         </motion.p>
-       <!-- <motion.a
+       <motion.a
           variants={slideInFromLeft(0.8)}
         >
      <a  download>
@@ -121,7 +121,7 @@ With a deep commitment to DevSecOps principles, I ensure compliance with 12-fact
             </button>
           
         </a>
-        </motion.a> -->
+        </motion.a> 
       </div>
 
         
