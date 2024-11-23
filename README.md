@@ -10,9 +10,6 @@
 <h3> 💬 Want to know more about me?</h3>
 You can find my work on my <a href="https://vikshith.com/" target="blank">Portfolio</a>.
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikshith-hg-c&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
 
 
 
