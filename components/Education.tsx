@@ -62,7 +62,7 @@ const Education = () => {
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true }}
-        variants={slideInFromTop}
+        variants={slideInFromTop(0.3)}
         className="text-center mb-12"
       >
         <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-green-500 to-cyan-500">
