@@ -141,7 +141,7 @@ const Experience = () => {
         </div>
         <div className="text-center p-6 border border-[#4AF626]/30 bg-[#0300145e] rounded-lg">
           <div className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#4AF626] to-cyan-500">
-            50+
+            10+
           </div>
           <div className="text-gray-400 mt-2">Projects</div>
         </div>

@@ -382,62 +382,26 @@ export const experience: ResumeExperience[] = [
 export const HobbyProjects: ResumeProject[] = [
   {
     id: 1,
-    title: "Infrastructure-as-Code for Homelab",
-    description: "Built a complete homelab infrastructure using Terraform and Ansible for learning cloud-native technologies.",
-    image: "/projects/homelab.png",
-    technologies: ["Terraform", "Ansible", "Kubernetes", "Docker", "Proxmox", "Ubuntu"],
-    categories: ["Infrastructure"],
+    title: "Personal Portfolio Website",
+    description: "Built a modern, interactive portfolio website showcasing technical expertise, projects, and certifications with advanced animations and responsive design.",
+    image: "/projects/portfolio.png",
+    technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion", "Three.js", "Node.js"],
+    categories: ["Platform Development"],
     type: "hobby",
     responsibilities: [
-      "Designed and implemented lab architecture",
-      "Automated VM provisioning with Terraform",
-      "Configured infrastructure with Ansible",
-      "Deployed Kubernetes cluster"
+      "Designed and implemented modern UI/UX with animations",
+      "Built responsive portfolio website using Next.js",
+      "Integrated 3D star background with Three.js",
+      "Created dynamic project and experience components",
+      "Implemented smooth scroll and motion animations",
+      "Optimized for performance and accessibility"
     ],
     achievements: [
-      "Automated entire lab infrastructure",
-      "Learned IaC best practices",
-      "Built multi-node Kubernetes cluster"
-    ]
-  },
-  {
-    id: 2,
-    title: "Container Security & Scanning",
-    description: "Developed container security scanning pipeline with vulnerability detection and reporting.",
-    image: "/projects/container-security.png",
-    technologies: ["Docker", "Trivy", "SAST", "GitHub Actions", "Python"],
-    categories: ["DevOps & Automation"],
-    type: "hobby",
-    responsibilities: [
-      "Implemented container scanning pipeline",
-      "Built vulnerability detection system",
-      "Created automated reporting",
-      "Integrated with GitHub Actions"
-    ],
-    achievements: [
-      "Implemented automated scanning",
-      "Built vulnerability reports",
-      "Integrated with CI/CD pipeline"
-    ]
-  },
-  {
-    id: 3,
-    title: "Kubernetes Distribution (K3s) Setup",
-    description: "Deployed and optimized lightweight Kubernetes cluster using K3s for edge computing scenarios.",
-    image: "/projects/k3s.png",
-    technologies: ["K3s", "Kubernetes", "Helm", "Linux", "Networking"],
-    categories: ["Infrastructure"],
-    type: "hobby",
-    responsibilities: [
-      "Deployed K3s cluster",
-      "Optimized cluster performance",
-      "Configured networking and storage",
-      "Built observability stack"
-    ],
-    achievements: [
-      "Deployed lightweight K8s cluster",
-      "Optimized for resource constraints",
-      "Built monitoring and logging stack"
+      "Built full-stack portfolio with 164KB first load",
+      "Implemented 3D graphics and complex animations",
+      "Achieved production-ready design and performance",
+      "Responsive across all devices and browsers",
+      "Integrated Google Docs for resume management"
     ]
   }
 ];
