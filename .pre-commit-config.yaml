@@ -1,0 +1,33 @@
+# Pre-commit hooks for security vulnerability detection
+# Install: pip install pre-commit && pre-commit install
+
+repos:
+  # General code quality and security
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: check-added-large-files
+        args: ['--maxkb=1000']
+      - id: check-case-conflict
+      - id: check-merge-conflict
+      - id: check-json
+      - id: check-yaml
+      - id: detect-private-key
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+  # ESLint for JavaScript/TypeScript security
+  - repo: local
+    hooks:
+      - id: eslint-security
+        name: ESLint Security Check
+        entry: npx eslint --config eslint.config.security.mjs
+        language: system
+        files: \.(js|jsx|ts|tsx)$
+        pass_filenames: true
+
+      - id: npm-audit
+        name: NPM Audit
+        entry: bash -c 'npm audit --audit-level=high'
+        language: system
+        pass_filenames: false
+        stages: [pre-commit]
