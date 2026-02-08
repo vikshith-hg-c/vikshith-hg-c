@@ -3,24 +3,24 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { slideInFromLeft, slideInFromTop } from "@/utils/motion";
-import { Projects as ProjectsData, ProjectCategories } from "@/constants";
+import { AllProjects as ProjectsData, ProjectCategories } from "@/constants";
 import Image from "next/image";
 
 const Projects = () => {
   const [selectedType, setSelectedType] = useState("All");
   const [selectedCategory, setSelectedCategory] = useState("All");
 
-  // Use pre-sorted professional projects from constants (already sorted by experience ID desc, project ID desc)
-  const professionalProjects = ProjectsData;
+  // All projects including professional and hobby
+  const allProjects = ProjectsData;
 
   // Filter by type first, then by category
-  let filteredProjects = professionalProjects;
+  let filteredProjects = allProjects;
 
-  if (selectedType !== "All" && selectedType !== "Professional") {
-    // If selecting Hobby but we only have Professional, show empty
-    filteredProjects = [];
-  } else if (selectedType === "Professional") {
-    filteredProjects = professionalProjects;
+  if (selectedType !== "All") {
+    filteredProjects = filteredProjects.filter(
+      (project: any) =>
+        selectedType === "Professional" ? !project.type || project.type === "professional" : project.type === "hobby"
+    );
   }
 
   if (selectedCategory !== "All" && filteredProjects.length > 0) {
